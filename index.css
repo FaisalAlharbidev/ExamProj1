@@ -1,0 +1,21 @@
+body, html {
+    height: 100%;
+    
+  }
+  
+  .bg {
+    /* The image used */
+    background-image: url("bgImg.jpg");
+  
+    /* Full height */
+    height: 100;
+  
+    /* Center and scale the image nicely */
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius:2%;
+  }
+  
+  .navbar{
+    background-color: rgba(61, 56, 207, 0.358);
+  }
